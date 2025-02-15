@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathvika</h1>
-<h3 align="center">Seeking a position as a Java Developer to apply my programming skills and contribute to innovative software
+<h3 align="center">Seeking a position as a Developer to apply my programming skills and contribute to innovative software
  development, while continuously learning and growing in a dynamic environment.</h3>
 
 - 🌱 I’m currently learning **Java Full Stack**
