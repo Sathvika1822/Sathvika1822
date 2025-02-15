@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sathvika</h1>
 <h3 align="center">Seeking a position as a Developer to apply my programming skills and contribute to innovative software
  development, while continuously learning and growing in a dynamic environment.</h3>
+<img align="right" alt="coding" src="https://media.tenor.com/IF2JdxzmyN4AAAAe/coding-girl.png">
+
 
 - 🌱 I’m currently learning **Java Full Stack**
 
