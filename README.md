@@ -1,12 +1,30 @@
 <h1 align="center">Hi 👋, I'm Sathvika</h1>
-<h3 align="center">Seeking a position as a Developer to apply my programming skills and contribute to innovative software
- development, while continuously learning and growing in a dynamic environment.</h3>
+<h3 align="center">I'm a Computer Science graduate driven by backend and full‑stack development using Java and Spring Boot. I build real-world apps with REST APIs, MySQL, and cloud deployment.</h3>
 <img align="right" alt="coding" src="https://media.tenor.com/IF2JdxzmyN4AAAAe/coding-girl.png">
 
+## 💻 Tech Stack
 
-- 🌱 I’m currently learning **Java Full Stack**
+- **Languages:** Java, Python, C++
+- **Frameworks:** Spring Boot, REST API, HTML/CSS
+- **Databases:** MySQL, MongoDB (basic)
+- **Tools & Platforms:** Git, GitHub, Postman, AWS (EC2, S3), Docker, Jenkins (learning)
 
-- 📫 How to reach me **sathvikayadav0018@gmail.com**
+  ## 🚀 Projects
+
+### ✅ [ToDo Task App](https://github.com/Sathvika1822/ToDoApp)
+A full-stack task manager with login, task creation, and persistent database storage.
+- 🛠 Built with Java, Spring Boot, MySQL
+- 🔐 User authentication and CRUD operations
+- 📄 REST APIs and clean architecture
+
+### 💪 [Fitness Application](https://github.com/Sathvika1822/FitnessApp) *(Ongoing)*
+A Java-based fitness tracker with custom plans and progress logs.
+- Modular backend structure
+- Designed for scalability and future deployment on AWS
+
+
+- 📫 How to reach me **sathvikagoddumarri@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
