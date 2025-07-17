@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathvika</h1>
 <h3 align="center">I'm a Computer Science graduate driven by backend and full‑stack development using Java and Spring Boot. I build real-world apps with REST APIs, MySQL, and cloud deployment.</h3>
 <img align="right" alt="coding" src="https://media.tenor.com/IF2JdxzmyN4AAAAe/coding-girl.png">
+- 📫 How to reach me **sathvikagoddumarri@gmail.com**
 
 ## 💻 Tech Stack
 
@@ -23,7 +24,6 @@ A Java-based fitness tracker with custom plans and progress logs.
 - Designed for scalability and future deployment on AWS
 
 
-- 📫 How to reach me **sathvikagoddumarri@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
