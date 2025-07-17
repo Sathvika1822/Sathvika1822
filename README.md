@@ -1,54 +1,62 @@
-# 👋 Hi, I'm Sathvika
+<h1 align="center">Hi 👋, I'm Sathvika</h1>
+<h3 align="center">Aspiring Java Full-Stack Developer | Building scalable backend systems | Learning Cloud & DevOps</h3>
 
-<img src="https://avatars.githubusercontent.com/u/142173742?v=4" width="120" height="120" style="border-radius: 50%;" />
-
-🎓 A Computer Science graduate passionate about backend development, cloud computing, and building full-stack Java applications that solve real problems.
-
----
-
-## 💻 Tech Stack
-
-- **Languages:** Java, Python, C++
-- **Frameworks:** Spring Boot, REST API, HTML/CSS
-- **Databases:** MySQL, MongoDB (basic)
-- **Tools & Platforms:** Git, GitHub, Postman, AWS (EC2, S3), Docker, Jenkins (learning)
+<p align="center">
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAe/coding-girl.png" alt="coding" width="250"/>
+</p>
 
 ---
 
-## 🚀 Projects
-
-### ✅ [ToDo Task App](https://github.com/Sathvika1822/ToDoApp)
-A full-stack task manager with login, task creation, and persistent database storage.
-- 🛠 Built with Java, Spring Boot, MySQL
-- 🔐 User authentication and CRUD operations
-- 📄 REST APIs and clean architecture
-
-### 💪 [Fitness Application](https://github.com/Sathvika1822/FitnessApp) *(Ongoing)*
-A Java-based fitness tracker with custom plans and progress logs.
-- Modular backend structure
-- Designed for scalability and future deployment on AWS
-
-### 📊 Maple Hardware Dashboard
-Interactive Tableau dashboard for business analytics
-- Data cleaned in Excel and modeled for region-wise sales insights
-- Built filters and KPIs in Tableau
+- 💻 I’m currently working on **Java Full Stack projects** using Spring Boot, MySQL, and REST APIs.  
+- 🚀 Actively exploring **Cloud (AWS)** and **DevOps tools** like Docker & Jenkins.  
+- 📌 Passionate about problem-solving, clean code, and building real-world applications.  
+- 📫 Reach me at: **sathvikagoddumarri@gmail.com**
 
 ---
 
-## 📚 Certifications
-
-- ✅ Java Programming Essentials – Coursera  
-- 🚧 AWS Cloud Practitioner – Amazon (in progress)  
-- ✅ SQL for Data Science – Coursera
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/sathvikagoddumarri" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathvikagoddumarri" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/goddumarri_sathvika" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-## 📫 Connect with Me
+<h3 align="left">🛠️ Languages & Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  </a>
+</p>
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sathvikagoddumarri/)
-- 💻 [GitHub](https://github.com/Sathvika1822)
-- 📧 sathvikagoddumarri@gmail.com
+---
+
+<h3 align="left">📌 Highlights:</h3>
+
+- 🔨 **ToDo Task App** – Built with Java & Spring Boot, includes login, task creation, and database integration.  
+- 💪 **Fitness Application** *(Ongoing)* – Tracking workouts with custom plans, modular backend design.  
+- 📊 **Maple Hardware Dashboard** – Created in Tableau, offering region-wise hardware sales insights.
 
 ---
 
 _“Learning never exhausts the mind.” — Leonardo da Vinci_
+
