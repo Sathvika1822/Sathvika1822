@@ -26,8 +26,8 @@ A Java-based fitness tracker with custom plans and progress logs.
 
 - ✅  Java Programming Fundamentals – Infosys Springboard                                                                                       
 - ✅Java (Basic) – HackerRank Certificate of Accomplishment                                                                                   
--✅Skill Development Program on Amazon Web Services – Cloud Computing – APSSDC                                   
- -✅Full Stack Java Developer – JSpiders — Ongoing  
+- ✅Skill Development Program on Amazon Web Services – Cloud Computing – APSSDC                                   
+- ✅Full Stack Java Developer – JSpiders — Ongoing  
 
 ## 📫 Connect with Me
 
