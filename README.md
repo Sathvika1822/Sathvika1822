@@ -4,9 +4,9 @@
 
 ## 💻 Tech Stack
 
-- **Languages:** Java, Python, C++
+- **Languages:** Java, SQL, JavaScript
 - **Frameworks:** Spring Boot, REST API, HTML/CSS
-- **Databases:** MySQL, MongoDB (basic)
+- **Databases:** MySQL, PostgreSQL
 - **Tools & Platforms:** Git, GitHub, Postman, AWS (EC2, S3), Docker, Jenkins (learning)
 
   ## 🚀 Projects
