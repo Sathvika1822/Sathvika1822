@@ -22,6 +22,12 @@ A Java-based fitness tracker with custom plans and progress logs.
 - Modular backend structure
 - Designed for scalability and future deployment on AWS
 
+## 📚 Certifications
+
+- ✅  Java Programming Fundamentals – Infosys Springboard                                                                                       
+- ✅Java (Basic) – HackerRank Certificate of Accomplishment                                                                                   
+-✅Skill Development Program on Amazon Web Services – Cloud Computing – APSSDC                                   
+ -✅Full Stack Java Developer – JSpiders — Ongoing  
 
 ## 📫 Connect with Me
 
